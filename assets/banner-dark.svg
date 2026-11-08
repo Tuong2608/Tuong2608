@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 290" width="100%" height="290" role="img" aria-label="Tran Van Tuong — Software &amp; Applied AI Engineering">
+  <defs>
+    <linearGradient id="bgDark" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B0F17" />
+      <stop offset="55%" stop-color="#0F172A" />
+      <stop offset="100%" stop-color="#0B1324" />
+    </linearGradient>
+    <radialGradient id="glowCyan" cx="82%" cy="18%" r="48%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.16" />
+      <stop offset="100%" stop-color="#38BDF8" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="glowEmerald" cx="14%" cy="88%" r="42%">
+      <stop offset="0%" stop-color="#10B981" stop-opacity="0.12" />
+      <stop offset="100%" stop-color="#10B981" stop-opacity="0" />
+    </radialGradient>
+    <linearGradient id="accentLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#10B981" />
+      <stop offset="50%" stop-color="#38BDF8" />
+      <stop offset="100%" stop-color="#6366F1" />
+    </linearGradient>
+    <pattern id="gridDark" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M 36 0 L 0 0 0 36" fill="none" stroke="#94A3B8" stroke-opacity="0.06" stroke-width="1" />
+    </pattern>
+  </defs>
+
+  <!-- Outer Card -->
+  <rect x="1" y="1" width="1198" height="288" rx="18" fill="url(#bgDark)" stroke="#1E293B" stroke-width="1.5" />
+  <rect x="1" y="1" width="1198" height="288" rx="18" fill="url(#gridDark)" />
+  <rect x="1" y="1" width="1198" height="288" rx="18" fill="url(#glowCyan)" />
+  <rect x="1" y="1" width="1198" height="288" rx="18" fill="url(#glowEmerald)" />
+
+  <!-- Top Subtle Gradient Accent Bar -->
+  <rect x="48" y="1" width="220" height="2.5" rx="1.25" fill="url(#accentLine)" />
+
+  <!-- Status Pill -->
+  <rect x="48" y="36" width="366" height="28" rx="14" fill="#064E3B" fill-opacity="0.45" stroke="#10B981" stroke-opacity="0.45" stroke-width="1" />
+  <circle cx="66" cy="50" r="4.5" fill="#10B981">
+    <animate attributeName="opacity" values="1;0.35;1" dur="2.4s" repeatCount="indefinite" />
+  </circle>
+  <text x="80" y="54" fill="#A7F3D0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" letter-spacing="0.6">OPEN TO SOFTWARE &amp; AI INTERNSHIPS • HCMC</text>
+
+  <!-- Name & Handle -->
+  <text x="48" y="114" fill="#F8FAFC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, Helvetica, Arial, sans-serif" font-size="38" font-weight="800" letter-spacing="-0.6">TRAN VAN TUONG</text>
+  <text x="412" y="112" fill="#64748B" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, ui-monospace, monospace" font-size="16" font-weight="500">@Tuong2608</text>
+
+  <!-- Role & University -->
+  <text x="48" y="148" fill="#38BDF8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, Helvetica, Arial, sans-serif" font-size="17.5" font-weight="600">Software &amp; Applied AI Engineering Student @ HCMUTE</text>
+
+  <!-- Value Proposition -->
+  <text x="48" y="180" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="400">Building grounded RAG systems, production REST APIs, and local-first apps.</text>
+
+  <!-- Domain Pills -->
+  <g font-family="'JetBrains Mono', 'Cascadia Code', Consolas, ui-monospace, monospace" font-size="12" font-weight="500">
+    <rect x="48" y="212" width="194" height="32" rx="8" fill="#1E293B" fill-opacity="0.85" stroke="#334155" stroke-width="1" />
+    <circle cx="66" cy="228" r="3.5" fill="#38BDF8" />
+    <text x="78" y="232" fill="#E2E8F0">Python • FastAPI • RAG</text>
+
+    <rect x="254" y="212" width="204" height="32" rx="8" fill="#1E293B" fill-opacity="0.85" stroke="#334155" stroke-width="1" />
+    <circle cx="272" cy="228" r="3.5" fill="#F59E0B" />
+    <text x="284" y="232" fill="#E2E8F0">Java 21 • Spring Boot 4</text>
+
+    <rect x="470" y="212" width="204" height="32" rx="8" fill="#1E293B" fill-opacity="0.85" stroke="#334155" stroke-width="1" />
+    <circle cx="488" cy="228" r="3.5" fill="#A855F7" />
+    <text x="500" y="232" fill="#E2E8F0">Flutter • React • Docker</text>
+  </g>
+
+  <!-- Right Code / Telemetry Card -->
+  <rect x="736" y="32" width="418" height="226" rx="12" fill="#090D16" fill-opacity="0.92" stroke="#1E293B" stroke-width="1.2" />
+  <line x1="736" y1="64" x2="1154" y2="64" stroke="#1E293B" stroke-width="1" />
+
+  <!-- Window Controls -->
+  <circle cx="758" cy="48" r="5" fill="#EF4444" fill-opacity="0.85" />
+  <circle cx="774" cy="48" r="5" fill="#F59E0B" fill-opacity="0.85" />
+  <circle cx="790" cy="48" r="5" fill="#10B981" fill-opacity="0.85" />
+  <text x="945" y="52" text-anchor="middle" fill="#64748B" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, ui-monospace, monospace" font-size="11.5">engineer.profile.ts</text>
+
+  <!-- Code Content -->
+  <g font-family="'JetBrains Mono', 'Cascadia Code', Consolas, ui-monospace, monospace" font-size="12.5">
+    <text x="758" y="90" fill="#C084FC">const <tspan fill="#38BDF8">engineer</tspan><tspan fill="#94A3B8"> = {</tspan></text>
+    <text x="776" y="113" fill="#94A3B8">school: <tspan fill="#34D399">"HCMUTE (IT)"</tspan>,</text>
+    <text x="776" y="136" fill="#94A3B8">domains: <tspan fill="#FBBF24">["Applied AI", "Backend"]</tspan>,</text>
+    <text x="776" y="159" fill="#94A3B8">aiStack: <tspan fill="#34D399">["RAG", "FAISS", "MedVQA"]</tspan>,</text>
+    <text x="776" y="182" fill="#94A3B8">systems: <tspan fill="#34D399">["FastAPI", "SpringBoot"]</tspan>,</text>
+    <text x="776" y="205" fill="#94A3B8">security: <tspan fill="#38BDF8">"Local-First AES-256-GCM"</tspan></text>
+    <text x="758" y="228" fill="#94A3B8">};</text>
+  </g>
+</svg>
