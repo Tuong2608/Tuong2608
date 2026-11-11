@@ -42,6 +42,20 @@
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h4><a href="https://github.com/Tuong2608/autonote-ai">🤖 Autonote AI — Multimodal Studio</a></h4>
+      <p><b>Autonomous Multimodal Intelligence Studio for Videos &amp; Carousels</b></p>
+      <p>Transforms TikTok &amp; YouTube videos/carousels into high-resolution slide galleries and structured, executable briefs for AI Agents (Claude Code, Antigravity, Notion) via local Whisper and Gemini Vision.</p>
+      <p><code>Python</code> <code>Gemini Vision</code> <code>Whisper</code> <code>FastAPI</code> <code>Multimodal</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/Tuong2608/gomlink-spatial">✨ GomLink Spatial — AI Link Collector</a></h4>
+      <p><b>1-Click Silent Link Collector &amp; Spatial Glassmorphism Interface</b></p>
+      <p>Modern OneTab alternative featuring spatial depth cards, drag-and-drop groups, automated 2-way Markdown synchronization, and clean metadata extraction designed for AI coding agents.</p>
+      <p><code>JavaScript</code> <code>Spatial UI</code> <code>Glassmorphism</code> <code>Chrome MV3</code> <code>Markdown</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h4><a href="https://github.com/Tuong2608/job-clipper">⚡ Job Clipper — CV Studio</a></h4>
       <p><b>Cross-Device AI Job Tracker &amp; ATS Resume Builder</b></p>
       <p>Captures job descriptions across desktop &amp; mobile via a <b>Chrome MV3 Extension</b> and <b>LAN QR Offline Queue</b>, evaluates JD–CV alignment without hallucinating skills, and exports ATS-ready A4 <code>.docx</code> / <code>.pdf</code> resumes from a lightweight Windows System Tray app.</p>
@@ -56,30 +70,16 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/Tuong2608/sope-backend">🛍️ SOPE E-Commerce Backend</a></h4>
-      <p><b>Transactional RESTful API &amp; Realtime Order Core</b></p>
-      <p>Core e-commerce backend featuring <b>JWT + Google OAuth2</b> RBAC, variant inventory, cart &amp; coupon workflows, <b>VNPay &amp; MoMo</b> payment integration, <b>WebSocket/STOMP</b> live order notifications, and a privacy-preserving AI chatbot proxy.</p>
-      <p><code>Java</code> <code>Spring Boot 4</code> <code>MySQL</code> <code>JWT / OAuth2</code> <code>WebSocket</code> <code>Docker</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/Tuong2608/local-pdf-knowledge-base">📄 Local PDF Knowledge Base</a></h4>
-      <p><b>Citation-Backed Grounded RAG Application</b></p>
-      <p>Retrieval-Augmented Generation pipeline built with page-aware recursive chunking, <b>Gemini embeddings</b>, local <b>FAISS</b> vector search, and <b>Maximal Marginal Relevance (MMR)</b> to deliver strictly grounded answers with expandable page citations and prompt-injection defense.</p>
-      <p><code>Python</code> <code>RAG</code> <code>FAISS</code> <code>Gemini API</code> <code>MMR</code> <code>Streamlit</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/Tuong2608/LTDDNC">🏠 Trọ An — Rental Management Suite</a></h4>
-      <p><b>Cross-Platform Mobile App &amp; Dart REST Backend</b></p>
-      <p>Full-lifecycle boarding-house management &amp; utility billing platform combining a <b>Flutter</b> mobile client, <b>Dart</b> backend API, <b>MySQL</b> core persistence, offline <b>Sqflite</b> meter drafts, and <b>Firebase</b> (Auth, Firestore live chat, FCM, Crashlytics).</p>
-      <p><code>Flutter</code> <code>Dart</code> <code>MySQL</code> <code>Sqflite</code> <code>Firebase</code></p>
-    </td>
-    <td width="50%" valign="top">
       <h4><a href="https://github.com/Tuong2608/Git-Health-Monitor">📊 Git Health Monitor</a></h4>
       <p><b>Full-Stack Repository Telemetry &amp; Analytics Platform</b></p>
       <p>Tracks repository snapshots, scheduled inspection jobs, and code-health alerts through a <b>Java 21 + Spring Boot 4</b> backend with <b>PostgreSQL 18 (Flyway)</b> migrations and a modern <b>React 19 + TypeScript + Recharts</b> web dashboard.</p>
       <p><code>Java 21</code> <code>Spring Boot 4</code> <code>PostgreSQL</code> <code>React 19</code> <code>TypeScript</code> <code>Docker</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/Tuong2608/sope-backend">🛍️ SOPE E-Commerce Backend</a></h4>
+      <p><b>Transactional RESTful API &amp; Realtime Order Core</b></p>
+      <p>Core e-commerce backend featuring <b>JWT + Google OAuth2</b> RBAC, variant inventory, cart &amp; coupon workflows, <b>VNPay &amp; MoMo</b> payment integration, <b>WebSocket/STOMP</b> live order notifications, and a privacy-preserving AI chatbot proxy.</p>
+      <p><code>Java</code> <code>Spring Boot 4</code> <code>MySQL</code> <code>JWT / OAuth2</code> <code>WebSocket</code> <code>Docker</code></p>
     </td>
   </tr>
 </table>
